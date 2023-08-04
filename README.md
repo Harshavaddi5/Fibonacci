@@ -1,4 +1,4 @@
-# Fibonacci
+
 class fib
 
 {
